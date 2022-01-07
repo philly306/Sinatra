@@ -1,0 +1,31 @@
+{
+
+    "bot": {
+        "login": "OTAxNTQ1OTA4NDM5NzY1MDUy.YXRcDg.aEjqLdJOMI7NY2epj6DsqmnnUOg"
+    },
+
+    "vanityprio": {
+        "channelid": "928783016640278619",
+
+        "roleid": "925860397041467502",
+
+        "discordvanity": ".gg/sinatra"
+    },
+
+    "embed": {
+        "help": "#0000FF",
+        "hi": "#0000FF",
+        "add": "#AAFF00",
+        "took": "#FF0000"
+    },
+
+    "title": {
+        "add": "Vanity Role Added!",
+        "took": "Vanity Role Removed!"
+    },
+
+    "console": {
+        "logs": true
+    }
+
+}
